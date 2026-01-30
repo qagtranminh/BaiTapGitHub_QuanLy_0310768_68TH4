@@ -8,5 +8,6 @@ namespace BaiTap.ViewModels
 {
     internal class LoginViewModel
     {
+        HashSet beo
     }
 }
